@@ -161,7 +161,7 @@ Install the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/abubakirovx/vision.git
 cd Ai_assistance
 ```
 
